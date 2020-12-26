@@ -5,7 +5,7 @@ public class Sample {
 		
 		System.out.println("enter in github");
 	    
-	    System.out.println("finish the work sir.");
+	    System.out.println("finish the work sir..");
 	
 	}
 
